@@ -1,5 +1,4 @@
 # 🎓 Venkatesh's Certificates Portfolio
-
 Welcome to my digital certificate portfolio — a verified showcase of my learning in **Data Science, Machine Learning, and Artificial Intelligence**.
 
 ---
