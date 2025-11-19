@@ -39,4 +39,4 @@ Welcome to my digital certificate portfolio a verified showcase of my learning i
 ---
 
 📬 **Connect with Me:**  
-🌐 [GitHub](https://github.com/venkatesh-data) | 💼 [LinkedIn](https://linkedin.com/in/venkatesh) | ✉️ venkateshvarada56@gmail.com
+🌐 [GitHub](https://github.c) | 💼 [LinkedIn](https://linkedin.com/in/venkatesh) | ✉️ venkateshvarada56@gmail.com
