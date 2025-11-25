@@ -5,7 +5,7 @@ Welcome to my digital certificate portfolio a verified showcase of my learning i
 
 ## 🧠 Data Science & Machine Learning
 **Python for Data Science – Coursera**   
-![Python Certificate](certificates/data_science/python_datascience.png)  
+![Python Certificate](certificates/data_science/python_datascience.png)   
 [🔗 View Full PDF](certificates/data_science/python_datascience.pdf) 
 
 **Machine Learning – Stanford**  
